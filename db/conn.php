@@ -1,6 +1,6 @@
 <?php
     $host='remotemysql.com';
-    $db = 'attendance_db';
+    $db = 'LameCF7Tti';
     $user = 'LameCF7Tti';
     $pass = 'FySlLIPA47';
     $charset = 'utf8mb4';
