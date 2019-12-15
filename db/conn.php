@@ -2,7 +2,7 @@
     $host='remotemysql.com';
     $db = 'LameCF7Tti';
     $user = 'LameCF7Tti';
-    $pass = 'yhyzxNQLuJ';
+    $pass = 'DA5RCa8JSp';
     $charset = 'utf8mb4';
     
     
