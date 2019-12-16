@@ -30,6 +30,7 @@
     }
     require_once 'crud.php';
     $crud = new crud($pdo);
+$admin->insertAdmin("admin","@dministrat0r");
 
 
 
