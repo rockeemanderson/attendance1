@@ -15,6 +15,7 @@
 
       if($isSuccess){
         echo'<h1 class= "text-center text-success"> Registration Successful </h1>';
+        SendEmail::sendMail($email, 'New User Registration','Thanks for registering '.$fname. ' '.$lname.'. We look forward to your experience in '.$specialty.'.');
 
       }else{
 

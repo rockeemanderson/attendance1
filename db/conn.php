@@ -8,7 +8,7 @@
     
     //$host='127.0.0.1';
     //$db = 'attendance_db';
-   // $user = 'root';
+    //$user = 'root';
     //$pass = '';
     //$charset = 'utf8mb4';
 
@@ -30,7 +30,7 @@
     }
     require_once 'crud.php';
     $crud = new crud($pdo);
-$admin->insertAdmin("admin","@dministrat0r");
+    //$admin->insertAdmin("admin","@dministrat0r");
 
 
 
